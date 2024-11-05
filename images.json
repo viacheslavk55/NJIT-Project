@@ -3,80 +3,80 @@
         {
             "imgPath": "img/places/australia.jpg",
             "imgLocation": "Australia",
-            "description": "Loch Ard Gorge",
-            "date": "01/01/2016"
+            "description": "Magnetic Island",
+            "date": "09/02/1764"
         },
         {
             "imgPath": "img/places/austria.jpg",
             "imgLocation": "Austria",
-            "description": "Austrian chapel",
-            "date": "01/02/2016"
+            "description": "Grossglockner High Alpine Road",
+            "date": "04/10/1914"
         },
         {
             "imgPath": "img/places/france.jpg",
             "imgLocation": "Paris",
             "description": "Eiffel Tower",
-            "date": "01/03/2016"
+            "date": "05/21/1932"
         },
         {
             "imgPath": "img/places/greece.jpg",
             "imgLocation": "Greece",
-            "description": "Greek coastline",
-            "date": "01/04/2016"
+            "description": "Greek Coastline",
+            "date": "08/04/1211"
         },
         {
             "imgPath": "img/places/hungary.jpg",
             "imgLocation": "Hungary",
-            "description": "Budapest skyline",
-            "date": "01/05/2016"
+            "description": "Körös-torok",
+            "date": "10/07/1600"
         },
         {
             "imgPath": "img/places/india.jpg",
             "imgLocation": "India",
-            "description": "Taj Mahal",
-            "date": "01/06/2016"
+            "description": "India Coastline",
+            "date": "07/12/1743"
         },
         {
             "imgPath": "img/places/italy.jpg",
             "imgLocation": "Italy",
-            "description": "Venice",
-            "date": "01/07/2016"
+            "description": "Italy Coastal Town",
+            "date": "06/02/868"
         },
         {
             "imgPath": "img/places/japan.jpg",
             "imgLocation": "Japan",
-            "description": "Hirosaki Castle",
-            "date": "01/08/2016"
+            "description": "Hachijojima, Tokyo, Japan",
+            "date": "06/09/1315"
         },
         {
             "imgPath": "img/places/korea.jpg",
             "imgLocation": "South Korea",
-            "description": "Seoul",
-            "date": "01/09/2016"
+            "description": "Seokchon Lake Park",
+            "date": "03/21/2002"
         },
         {
             "imgPath": "img/places/norway.jpg",
             "imgLocation": "Norway",
             "description": "Countryside mountains",
-            "date": "01/10/2016"
+            "date": "03/10/1861"
         },
         {
             "imgPath": "img/places/switzerland.jpg",
             "imgLocation": "Switzerland",
-            "description": "Lake castle",
-            "date": "01/11/2016"
+            "description": "Swiss Alps",
+            "date": "05/05/1917"
         },
         {
-            "imgPath": "img/places/thailand.jpg",
-            "imgLocation": "Thailand",
-            "description": "Beachline",
-            "date": "01/12/2016"
+            "imgPath": "img/places/ukraine.jpg",
+            "imgLocation": "Ukraine",
+            "description": "Voronki",
+            "date": "03/12/1652"
         },
         {
             "imgPath": "img/places/turkey.jpg",
             "imgLocation": "Turkey",
-            "description": "Istanbul",
-            "date": "01/13/2016"
+            "description": "Old town: Antalya",
+            "date": "10/25/1253"
         }
   ]
 }
