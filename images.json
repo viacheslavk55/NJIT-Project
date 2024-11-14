@@ -1,79 +1,79 @@
 {
     "images": [
         {
-            "imgPath": "img/places/australia.jpg",
+            "imgPath": "img/places/australia.jpeg",
             "imgLocation": "Australia",
             "description": "Magnetic Island",
             "date": "09/02/1764"
         },
         {
-            "imgPath": "img/places/austria.jpg",
+            "imgPath": "img/places/austria.jpeg",
             "imgLocation": "Austria",
             "description": "Grossglockner High Alpine Road",
             "date": "04/10/1914"
         },
         {
-            "imgPath": "img/places/france.jpg",
+            "imgPath": "img/places/france.jpeg",
             "imgLocation": "Paris",
             "description": "Eiffel Tower",
             "date": "05/21/1932"
         },
         {
-            "imgPath": "img/places/greece.jpg",
+            "imgPath": "img/places/greece.jpeg",
             "imgLocation": "Greece",
             "description": "Greek Coastline",
             "date": "08/04/1211"
         },
         {
-            "imgPath": "img/places/hungary.jpg",
+            "imgPath": "img/places/hungary.jpeg",
             "imgLocation": "Hungary",
             "description": "Körös-torok",
             "date": "10/07/1600"
         },
         {
-            "imgPath": "img/places/india.jpg",
+            "imgPath": "img/places/india.jpeg",
             "imgLocation": "India",
             "description": "India Coastline",
             "date": "07/12/1743"
         },
         {
-            "imgPath": "img/places/italy.jpg",
+            "imgPath": "img/places/italy.jpeg",
             "imgLocation": "Italy",
             "description": "Italy Coastal Town",
             "date": "06/02/868"
         },
         {
-            "imgPath": "img/places/japan.jpg",
+            "imgPath": "img/places/japan.jpeg",
             "imgLocation": "Japan",
             "description": "Hachijojima, Tokyo, Japan",
             "date": "06/09/1315"
         },
         {
-            "imgPath": "img/places/korea.jpg",
+            "imgPath": "img/places/korea.jpeg",
             "imgLocation": "South Korea",
             "description": "Seokchon Lake Park",
             "date": "03/21/2002"
         },
         {
-            "imgPath": "img/places/norway.jpg",
+            "imgPath": "img/places/norway.jpeg",
             "imgLocation": "Norway",
             "description": "Countryside mountains",
             "date": "03/10/1861"
         },
         {
-            "imgPath": "img/places/switzerland.jpg",
+            "imgPath": "img/places/switzerland.jpeg",
             "imgLocation": "Switzerland",
             "description": "Swiss Alps",
             "date": "05/05/1917"
         },
         {
-            "imgPath": "img/places/ukraine.jpg",
+            "imgPath": "img/places/ukraine.jpeg",
             "imgLocation": "Ukraine",
             "description": "Voronki",
             "date": "03/12/1652"
         },
         {
-            "imgPath": "img/places/turkey.jpg",
+            "imgPath": "img/places/turkey.jpeg",
             "imgLocation": "Turkey",
             "description": "Old town: Antalya",
             "date": "10/25/1253"

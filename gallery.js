@@ -8,7 +8,12 @@ $(document).ready(() => {
 
   // Call a function here to start the timer for the slideshow
 
+  startTimer();
   // Select the moreIndicator button and add a click event to:
+  $('.moreIndicator').on('click', function () {
+    $('.details').slideToggle();
+    $('.moreIndicator').toggleClass('rot270 rot90');
+  })
   // - toggle the rotation classes (rot90 and rot270)
   // - slideToggle the visibility of the .details section
 
@@ -44,6 +49,13 @@ function swapPhoto () {
   // Access mImages[mCurrentIndex] to update the image source and details
   // Update the #photo element's src attribute with the current image's path
   // Update the .location, .description, and .date elements with the current image's details
+  const image = mImages[mCurrentIndex]; 
+  
+  $('#photo').attr('src', image.imgPath);
+  $('.location').text(`Location: ${image.imgLocation}`);
+  $('.description').text(`Description: ${image.description}`);
+  $('.date').text(`Date: ${image.date}`);
+
 }
 
 // Advances to the next photo, loops to the first photo if the end of array is reached
