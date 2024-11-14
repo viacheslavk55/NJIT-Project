@@ -13,7 +13,7 @@
             "date": "04/10/1914"
         },
         {
-            "imgPath": "img/places/france.jpeg",
+            "imgPath": "img/places/paris.jpeg",
             "imgLocation": "Paris",
             "description": "Eiffel Tower",
             "date": "05/21/1932"
@@ -49,7 +49,7 @@
             "date": "06/09/1315"
         },
         {
-            "imgPath": "img/places/korea.jpeg",
+            "imgPath": "img/places/south korea.jpeg",
             "imgLocation": "South Korea",
             "description": "Seokchon Lake Park",
             "date": "03/21/2002"
