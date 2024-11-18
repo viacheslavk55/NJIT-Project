@@ -9,7 +9,7 @@ body {
 /* Main container for the slideshow and metadata */
 #photoBooth {
     padding: 25px; /* Increased padding for better spacing */
-    max-width: 500px; /* Increased max-width for larger display */
+    max-width: 700px; /* Increased max-width for larger display */
     width: 90%; /* Keeps width responsive */
     margin: auto;
     background-color: rgba(255, 255, 255, 0.9);
@@ -91,4 +91,13 @@ Make it animate nicely. You'll need CSS3 for this */
     /* Add 270-degree rotation */
     transform: rotate(270deg);
     transition: transform 1s;
+}
+
+.sour-gummy-reg {
+  font-family: "Sour Gummy", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 900;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
 }
